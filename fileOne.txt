@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 File 1:
 =======
 
+=======
+>>>>>>> 1ab00b0 (my commit message)
 This is file one.
